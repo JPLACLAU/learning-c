@@ -4,20 +4,24 @@
 /* print Fahrenheit-Celsus table
 for fahr = 0, 20, ..., 300 */
 
+    /* cero copy paste all typed manually */
+    /* Punto 1-4: C to F */
+    /* Tabla celsius -> fahr */
+
     main()
 {
-    int fahr, celsius;
+    float celsius, fahr;
     int lower, upper, step;
 
-    lower = 0; /* lower limit of temperature table */
-    upper = 300; /*upper limit*/
-    step = 20; /* step size */
+    lower = -20; /* lower limit of temperature table */
+    upper = 150; /*upper limit*/ /*se modifica esto para el 1-3*/
+    step = 10; /* step size */
 
-    fahr = lower;
-    while (fahr <= upper) {
-        celsius = 5 * (fahr-32) /9;
-        printf("%3d %6d\n", fahr, celsius);
-        fahr = fahr + step;
+    celsius = lower;
+    while (celsius <= upper) {
+        fahr = (celsius *(9.0/5.0))+ 32;
+        printf("%3.0f  %6.0f \n", celsius, fahr);
+        celsius = celsius + step;
 
     }
 }

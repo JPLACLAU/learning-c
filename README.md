@@ -7,4 +7,4 @@ This Repository will have exercises from the book "The C programming language fr
 - [x] Preface
 - [x] Preface to the First Ed.
 - [x] Intro
-- [pag 20 pdf ] Chapter 1
+- [] Chapter 1.. pdf pag 20

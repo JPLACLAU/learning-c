@@ -5,5 +5,6 @@ int main()
 {
     printf("Hello");
     printf(" world!");
+    printf("\°");
     return 0;
 }

@@ -9,5 +9,8 @@ This Repository will have exercises from the book "The C programming language fr
 - [x] Intro
 - [ ] Chapter 1 - pdf pag...20
 
-- Ejercicio 1.1
-- Ejercicio 1.2
+### Día 1
+
+- [x] Ejercicio 1.1
+- [x] Ejercicio 1.2
+- [ ] Ejercicio 1.3

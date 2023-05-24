@@ -5,5 +5,6 @@ This Repository will have exercises from the book "The C programming language fr
 ## Week 1
 
 - [x] Preface
+- [x] Preface to the First Ed.
 - [x] Intro
 - [ ] Chapter 1

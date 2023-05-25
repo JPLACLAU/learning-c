@@ -13,4 +13,6 @@ This Repository will have exercises from the book "The C programming language fr
 
 - [x] Ejercicio 1.1
 - [x] Ejercicio 1.2
-- [ ] Ejercicio 1.3
+- [x] Ejercicio 1.3
+- [x] Ejercicio 1.4
+- [ ] Ejercicio 1.5

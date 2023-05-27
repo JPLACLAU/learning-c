@@ -15,4 +15,5 @@ This Repository will have exercises from the book "The C programming language fr
 - [x] Ejercicio 1.2
 - [x] Ejercicio 1.3
 - [x] Ejercicio 1.4
-- [ ] Ejercicio 1.5
+- [ ] Ejercicio 1.5.1 dudas: no pasa nada
+- [ ] Ejercicio 1.5.2 dudas: no pasa nada

@@ -2,39 +2,38 @@
 #include <stdlib.h>
 
 /* count lines, tabs, and blanks in input */
-/* Exercise 1-9: Write a program to copy its input to its output, replacing each
-string of one or more blanks by a single blank. */
+/* Exercise 1-10: Write a program to copy its input to its output, replacing each
+tab by \t, each backspace by \b, and each backslash by \\. This makes tabs
+and backspaces visible in an unambiguous way
+*/
+/* borro todo lo anterior para este 1-10 */
+
 
 int main()
 {
-    int c, nl, blank, tab, lastChar;
-
-    nl = 0;
-    blank = 0;
-    tab = 0;
-    lastChar = ' '; //initialize with a blank
+    int c;
 
     while ((c = getchar()) != EOF)
     {
-        if (c == '\n')
-            ++nl;
-        else if (c == '\t')
-            ++tab;
-
-        else if (c == ' ') {
-            if (lastChar != ' ')
-                putchar(c);
-                ++blank;
+        if (c == '\t')
+        {
+            putchar('\\');
+            putchar('t');
         }
-        else { putchar(c);}
-
-        lastChar = c; // store last character for comparison
-
+        else if (c == '\\')
+        {
+            putchar('\\');
+            putchar('\\');
+        }
+        else if (c == '\\b') // backspace
+        {
+            putchar('\\');
+            putchar('b');
+        } // este no me sale
+        else
+        {
+            putchar(c);
+        }
     }
 
-    printf("Lines: %d\n", nl);
-    printf("Tabs: %d\n", tab);
-    printf("Blanks: %d\n", blank);
-
-    return 0;
 }

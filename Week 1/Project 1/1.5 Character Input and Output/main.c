@@ -9,8 +9,21 @@ int main()
     int c;
 
     c = getchar();
-    while (c != EOF){
+    while (c != EOF)
+    {
         putchar(c);
         c = getchar();
     }
+
+    // Check the result of the expression
+    if (c == EOF)
+    {
+        printf("Expression is 0\n");
+    }
+    else
+    {
+        printf("Expression is 1\n");
+    }
+
+    return 0;
 }

@@ -2,6 +2,18 @@
 
 This Repository will have exercises from the book "The C programming language from Brian Kernighan &amp; Dennis M.Ritchie"
 
+---
+
+## Week 2
+
+- [ ] Chapter 1 - pdf pag...35
+
+### Día 3
+
+- [x] Ejercicio 1.6
+
+---
+
 ## Week 1
 
 - [x] Preface

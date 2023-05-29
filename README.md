@@ -11,6 +11,7 @@ This Repository will have exercises from the book "The C programming language fr
 ### Día 3
 
 - [x] Ejercicio 1.6
+- [ ] Ejercicio 1.7
 
 ---
 
@@ -23,9 +24,11 @@ This Repository will have exercises from the book "The C programming language fr
 
 ### Día 2
 
-- [x] Ejercicio 1.5.4
+- [x] Ejercicio 1.5.4 Dudas sobre el 1-11 y el 1-12
 - [x] Ejercicio 1.5.3
 - [x] Ejercicio 1.5.2
+
+Otras dudas: porque es tan importantes que no se cuente el end of line? EOF
 
 ### Día 1
 

@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* 1.6 Pag.35 */
-/* count digits, white space, others */
-
 int main()
 {
     int c, i, nwhite, nother;
@@ -17,9 +14,11 @@ int main()
 
     while ((c = getchar()) != EOF)
 
-        if (c >= '0' && c <= '9')
+        /* if (c >= '0' && c <= '9') */ //LINEA DE CODIGO ORIGINAL
+
+        if (c >= '48' && c <= '57') //MODIFICO EL RANGO
         {
-            ++ndigit [c - 48];
+            ++ndigit [c /*- '0'*/]; //SACO LA RESTA DE 0
         }
         else if (c == ' ' || c == '\n' || c == '\t')
         {
@@ -40,4 +39,3 @@ int main()
 
     return 0;
 }
-

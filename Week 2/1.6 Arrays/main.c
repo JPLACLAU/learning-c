@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 1.6 Pag.35 */
 /* count digits, white space, others */
-
-#include <stdio.h>
 
 int main()
 {

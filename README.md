@@ -11,6 +11,7 @@ This Repository will have exercises from the book "The C programming language fr
 ### Día 3
 
 - [x] Ejercicio 1.6
+- [x] ¿Porque c-'0'? ( Extra bonus track )
 - [ ] Ejercicio 1.7
 
 ---

@@ -6,13 +6,18 @@ This Repository will have exercises from the book "The C programming language fr
 
 ## Week 2
 
-- [ ] Chapter 1 - pdf pag...35
+- [ ] Chapter 1 - pdf pag...40
+
+### Día 4
+
+- [ ] Ejercicio 1.8
+- [x] Ejercicio 1.7 Excersise 1-15
+- [x] Ejercicio 1.7
 
 ### Día 3
 
 - [x] Ejercicio 1.6
 - [x] ¿Porque c-'0'? ( Extra bonus track )
-- [ ] Ejercicio 1.7
 
 ---
 
@@ -21,7 +26,7 @@ This Repository will have exercises from the book "The C programming language fr
 - [x] Preface
 - [x] Preface to the First Ed.
 - [x] Intro
-- [ ] Chapter 1 - pdf pag...34
+- [x] Chapter 1 - hasta la pag...34 del pdf.
 
 ### Día 2
 

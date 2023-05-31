@@ -6,11 +6,15 @@ This Repository will have exercises from the book "The C programming language fr
 
 ## Week 2
 
-- [ ] Chapter 1 - pdf pag...40
+- [ ] Chapter 1 - pdf pag...41
+
+### Día 5
+
+- [ ] Ejercicio 1.9
 
 ### Día 4
 
-- [ ] Ejercicio 1.8
+- [x] Ejercicio 1.8
 - [x] Ejercicio 1.7 Excersise 1-15
 - [x] Ejercicio 1.7
 

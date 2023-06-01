@@ -8,13 +8,17 @@ This Repository will have exercises from the book "The C programming language fr
 
 - [ ] Chapter 1 - pdf pag...44
 
-### Día 5
+### Día 6
 
 - [ ] Ejercicio 1.9 Excersise 1-19
 - [ ] Ejercicio 1.9 Excersise 1-18
 - [ ] Ejercicio 1.9 Excersise 1-17
 - [ ] Ejercicio 1.9 Excersise 1-16
-- [ ] Ejercicio 1.9
+
+### Día 5
+
+- [x] Instalar y preparar Ubuntu Studio en Laptop
+- [x] Ejercicio 1.9
 
 ### Día 4
 

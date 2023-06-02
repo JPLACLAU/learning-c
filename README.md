@@ -2,6 +2,8 @@
 
 This Repository will have exercises from the book "The C programming language from Brian Kernighan &amp; Dennis M.Ritchie"
 
+I must state that this study material suggestion was made by mpr. Just like Batman gets out of his cave and helps the citizens in need in Gotham city... Whenever a coding student finds her/himself stuck and with difficulties learning code, mpr appears out of the shadows just like Batman. If you need to find mpr, do not send the signal on Gotham, you will find him assisting users in need on La crypta community discord channel.
+
 ---
 
 ## Week 2
@@ -13,7 +15,7 @@ This Repository will have exercises from the book "The C programming language fr
 - [ ] Ejercicio 1.9 Excersise 1-19
 - [ ] Ejercicio 1.9 Excersise 1-18
 - [ ] Ejercicio 1.9 Excersise 1-17
-- [ ] Ejercicio 1.9 Excersise 1-16
+- [x] Ejercicio 1.9 Excersise 1-16
 
 ### Día 5
 

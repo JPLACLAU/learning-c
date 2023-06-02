@@ -12,25 +12,25 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 ### Día 6
 
-- [ ] Ejercicio 1.9 Excersise 1-19
-- [ ] Ejercicio 1.9 Excersise 1-18
-- [ ] Ejercicio 1.9 Excersise 1-17
-- [x] Ejercicio 1.9 Excersise 1-16
+- [ ] Sección 1.9 Excersise 1-19
+- [ ] Sección 1.9 Excersise 1-18
+- [ ] Sección 1.9 Excersise 1-17
+- [x] Sección 1.9 Excersise 1-16
 
 ### Día 5
 
 - [x] Instalar y preparar Ubuntu Studio en Laptop
-- [x] Ejercicio 1.9
+- [x] Sección 1.9
 
 ### Día 4
 
-- [x] Ejercicio 1.8
-- [x] Ejercicio 1.7 Excersise 1-15
-- [x] Ejercicio 1.7
+- [x] Sección 1.8
+- [x] Sección 1.7 Excersise 1-15
+- [x] Sección 1.7
 
 ### Día 3
 
-- [x] Ejercicio 1.6
+- [x] Sección 1.6
 - [x] ¿Porque c-'0'? ( Extra bonus track )
 
 ---
@@ -44,16 +44,16 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 ### Día 2
 
-- [x] Ejercicio 1.5.4 Dudas sobre el 1-11 y el 1-12
-- [x] Ejercicio 1.5.3
-- [x] Ejercicio 1.5.2
+- [x] Sección 1.5.4 Dudas sobre el 1-11 y el 1-12
+- [x] Sección 1.5.3
+- [x] Sección 1.5.2
 
 Otras dudas: porque es tan importantes que no se cuente el end of line? EOF
 
 ### Día 1
 
-- [x] Ejercicio 1.5.1
-- [x] Ejercicio 1.4
-- [x] Ejercicio 1.3
-- [x] Ejercicio 1.2
-- [x] Ejercicio 1.1
+- [x] Sección 1.5.1
+- [x] Sección 1.4
+- [x] Sección 1.3
+- [x] Sección 1.2
+- [x] Sección 1.1

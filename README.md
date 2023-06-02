@@ -14,7 +14,7 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 - [ ] Sección 1.9 Excersise 1-19
 - [ ] Sección 1.9 Excersise 1-18
-- [ ] Sección 1.9 Excersise 1-17
+- [x] Sección 1.9 Excersise 1-17
 - [x] Sección 1.9 Excersise 1-16
 
 ### Día 5

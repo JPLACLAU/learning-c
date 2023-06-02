@@ -10,10 +10,13 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 - [ ] Chapter 1 - pdf pag...44
 
-### Día 6
+### Día 7
 
 - [ ] Sección 1.9 Excersise 1-19
 - [ ] Sección 1.9 Excersise 1-18 No me sale. estoy quemado.
+
+### Día 6
+
 - [x] Sección 1.9 Excersise 1-17
 - [x] Sección 1.9 Excersise 1-16
 

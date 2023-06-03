@@ -2,7 +2,7 @@
 
 This Repository will have exercises from the book "The C programming language from Brian Kernighan &amp; Dennis M.Ritchie"
 
-I must state that this study material suggestion was made by mpr. Just like Batman gets out of his cave and helps the citizens in need in Gotham city... Whenever a coding student finds her/himself stuck and with difficulties learning code, mpr appears out of the shadows just like Batman. If you need to find mpr, do not send the signal on Gotham, you will find him assisting users in need on La crypta community discord channel.
+I must state that this study material suggestion was made by mpr. Just like Batman gets out of his cave and helps the citizens in need in Gotham city... mpr appears out of the shadows just like Batman whenever coding students finds themselves stuck with the code. If you need to find mpr, send the marianosignal on La crypta community discord channel.
 
 ---
 
@@ -13,10 +13,10 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 ### Día 7
 
 - [ ] Sección 1.9 Excersise 1-19
-- [ ] Sección 1.9 Excersise 1-18 No me sale. estoy quemado.
 
 ### Día 6
 
+- [x] Sección 1.9 Excersise 1-18 Finalmente salio. Fue un parto este item
 - [x] Sección 1.9 Excersise 1-17
 - [x] Sección 1.9 Excersise 1-16
 

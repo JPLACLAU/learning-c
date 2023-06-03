@@ -8,7 +8,22 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 ## Week 2
 
-- [ ] Chapter 1 - pdf pag...44
+- [ ] Chapter 2 - pdf pag...47
+
+---
+
+## Week 2
+
+- [ ] Chapter 1 COMPLETADO
+
+### Día 8
+
+- [ ] Sección 1.10 Excersise 1-24
+- [ ] Sección 1.10 Excersise 1-23
+- [ ] Sección 1.10 Excersise 1-22
+- [ ] Sección 1.10 Excersise 1-21
+- [ ] Sección 1.10 Excersise 1-20
+- [ ] Sección 1.10
 
 ### Día 7
 
@@ -47,11 +62,9 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 ### Día 2
 
-- [x] Sección 1.5.4 Dudas sobre el 1-11 y el 1-12
+- [x] Sección 1.5.4
 - [x] Sección 1.5.3
 - [x] Sección 1.5.2
-
-Otras dudas: porque es tan importantes que no se cuente el end of line? EOF
 
 ### Día 1
 

@@ -6,8 +6,13 @@ I must state that this study material suggestion was made by mpr. Just like Batm
 
 ---
 
-## Week 2
 
+## Week 4
+
+- [ ] Chapter 2
+
+## Week 3
+Pausa porque nos vamos a la Colimba de Mariano
 - [ ] Chapter 2 - pdf pag...47
 
 ---

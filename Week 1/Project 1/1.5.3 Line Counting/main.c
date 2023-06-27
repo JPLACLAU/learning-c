@@ -25,7 +25,7 @@ int main()
             putchar('\\');
             putchar('\\');
         }
-        else if (c == '\\b') // backspace
+        else if (c == '\b') // backspace
         {
             putchar('\\');
             putchar('b');
